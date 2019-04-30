@@ -8,7 +8,6 @@ export default class ContactInfo extends Component {
   };
 
   onDeleteClick = id => {
-
   };
 
   render() {
